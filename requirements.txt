@@ -2,14 +2,11 @@ dash
 dash-bootstrap-components
 openai
 langchain
-langchain-core
 langchain-openai
 langchain-community
 langgraph
-langgraph-checkpoint-sqlite
 python-dotenv
 chainlit
 tavily-python
 pydantic
 sqlalchemy
-gradio
