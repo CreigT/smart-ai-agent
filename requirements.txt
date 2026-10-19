@@ -1,0 +1,12 @@
+dash
+dash-bootstrap-components
+openai
+langchain
+langchain-openai
+langchain-community
+langgraph
+python-dotenv
+chainlit
+tavily-python
+pydantic
+sqlalchemy
